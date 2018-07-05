@@ -539,7 +539,7 @@ if(false) {}
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/leo/angular-proj/my-dream-app/src/styles.css */"./src/styles.css");
+module.exports = __webpack_require__(/*! /home/leo/angular-proj/ng-pwa/src/styles.css */"./src/styles.css");
 
 
 /***/ })
